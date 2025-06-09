@@ -10,7 +10,6 @@ Makarov72
 
 1.4.Запрещено любые сдачи аренду сборок серверов с установленными модами "франшизы".
 
-1.5 Вы покупаете ВОЗМОЖНОСТЬ использовать мод на своем проекте, ни в коем случае не права на мод.
 
 [ENG]
 🇺🇸 
@@ -22,4 +21,3 @@ Makarov72
 
 1.4. Any rental of server assemblies with the installed mods of the "franchise" is prohibited.
 
-1.5 You are buying the OPPORTUNITY to use the mod on your project, in no case the rights to the mod.
